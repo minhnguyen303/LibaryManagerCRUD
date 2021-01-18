@@ -1,0 +1,33 @@
+body{
+    font: 16px Arial;
+}
+
+#menu{
+    padding: 10px 0 20px;
+    border-top: 2px solid #230c03;
+    border-bottom: 2px solid #230c03;
+}
+
+#table{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+#row1{
+    width: 150px;
+}
+
+#row2, #row3{
+    width: 500px;
+}
+
+#row1, #row2, #row3, #row4{
+    background-color: #afafaf;
+    border: 1px dashed;
+    font: normal normal bold 18px Arial;
+}
+
+td{
+    border: 1px dashed;
+    padding-left: 10px;
+}
